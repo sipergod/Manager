@@ -1,0 +1,11 @@
+C:\Users\siper\source\repos\Milktea_Manager\Milktea_Manager\bin\Debug\Milktea_Manager.exe.config
+C:\Users\siper\source\repos\Milktea_Manager\Milktea_Manager\bin\Debug\Milktea_Manager.exe
+C:\Users\siper\source\repos\Milktea_Manager\Milktea_Manager\bin\Debug\Milktea_Manager.pdb
+C:\Users\siper\source\repos\Milktea_Manager\Milktea_Manager\obj\Debug\Milktea_Manager.csprojAssemblyReference.cache
+C:\Users\siper\source\repos\Milktea_Manager\Milktea_Manager\obj\Debug\Milktea_Manager.FLogin.resources
+C:\Users\siper\source\repos\Milktea_Manager\Milktea_Manager\obj\Debug\Milktea_Manager.Properties.Resources.resources
+C:\Users\siper\source\repos\Milktea_Manager\Milktea_Manager\obj\Debug\Milktea_Manager.csproj.GenerateResource.cache
+C:\Users\siper\source\repos\Milktea_Manager\Milktea_Manager\obj\Debug\Milktea_Manager.csproj.CoreCompileInputs.cache
+C:\Users\siper\source\repos\Milktea_Manager\Milktea_Manager\obj\Debug\Milktea_Manager.exe
+C:\Users\siper\source\repos\Milktea_Manager\Milktea_Manager\obj\Debug\Milktea_Manager.pdb
+C:\Users\siper\source\repos\Milktea_Manager\Milktea_Manager\obj\Debug\Milktea_Manager.FTableManager.resources
